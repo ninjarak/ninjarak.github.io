@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Tamma&display=swap');
+.ind{
+	text-align:center;
+
+}
+.janr{
+	display:flex; 
+	
+}
+.janr1{
+	margin: 10px;
+}
+body{
+	
+}
+   h1 {
+	  font-family: 'Times New Roman', Times, serif;
+	   font-style: italic; 
+   }
+   h2 {
+	  font-family: 'Times New Roman', Times, serif;
+	   font-style: italic; 
+   }
+p{
+
+	font-family: 'Times New Roman', Times, serif;
+}
+.s{
+ background-image: url("img/facebook.png");
+    width: 70px;
+    height:70px ;
+    margin: 5px;
+	background-color: black;
+ -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.s1{
+    
+    background-image: url("img/youtube.png");
+    width: 70px;
+    height:70px ;
+    margin: 5px;
+	background-color: black;
+ 	-webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.s2{
+    background-image: url("img/whatsapp.png");
+    width: 70px;
+    height:70px ;
+    margin: 5px;
+	background-color: black;
+ -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.a5{
+	display: flex;
+}
+.s3{
+    background-image: url("img/snapchat.png");
+    width: 70px;
+    height:70px ;
+    margin: 5px;
+	background-color: black;
+ -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+body{
+	background-image: url(img/i.webp);
+	text-align:center;
+	color: azure;
+	margin:auto;
+}
+.janr{
+	text-align:center;
+	width: 200;
+}
+.image img{
+ -moz-transition: all 1s ease-out;
+ -o-transition: all 1s ease-out;
+ -webkit-transition: all 1s ease-out;
+ }
+.image {  
+    box-shadow: 0 0 10px rgba(255,0,0,1); 
+}
+.image:hover{
+    background: #3d7;
+    border-radius: 55px;	
+ -moz-transition: all 1s ease-out;
+ -o-transition: all 1s ease-out;
+ -webkit-transition: all 1s ease-out;
+    background-position: 98% 90%;
+}
+
